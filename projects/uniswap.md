@@ -5,7 +5,7 @@ Uniswap is a decentralized exchange protocol (DEX). It allows people to set up o
 
 ### Why
 
-AMMS are one of the building blocks in the crypto space as they always provide users with a price between two assets. Uniswap uses a simple  X * Y = K, formula to price assets where x is the amount of one token in the liquidity pool, and y is the amount of the other. k is a fixed constant, meaning the pool’s total liquidity is always the same. 
+AMMs are one of the building blocks in the crypto space as they always provide users with a price between two assets. Uniswap uses a simple  X * Y = K, formula to price assets where x is the amount of one token in the liquidity pool, and y is the amount of the other. k is a fixed constant, meaning the pool’s total liquidity is always the same. 
 
 
 ### Risk
